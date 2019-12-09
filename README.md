@@ -8,7 +8,7 @@ Hasil project dari belajar Database mariaDB di Universitas Islam Negeri Malang
 4. Lingga Wahyu Rochim [@linggawahyu_12](https://www.instagram.com/linggawahyu_12/)
 
 ## Tampilan
-![screenshoot](https://raw.githubusercontent.com/LinggaWahyu/TokoKasurPandaanJaya/master/Tampilan/1.png)
+![screenshoot](https://github.com/LinggaWahyu/TokoKasurPandaanJaya/blob/master/Tampilan%20/1.png)
 ![screenshoot](https://raw.githubusercontent.com/LinggaWahyu/TokoKasurPandaanJaya/master/Tampilan/2.png)
 ![screenshoot](https://raw.githubusercontent.com/LinggaWahyu/TokoKasurPandaanJaya/master/Tampilan/3.png)
 ![screenshoot](https://raw.githubusercontent.com/LinggaWahyu/TokoKasurPandaanJaya/master/Tampilan/4.png)
