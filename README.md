@@ -23,4 +23,3 @@ Hasil project dari belajar Database mariaDB di Universitas Islam Negeri Malang
 ![screenshoot](https://github.com/LinggaWahyu/TokoKasurPandaanJaya/blob/master/Tampilan%20/13.png)
 ![screenshoot](https://github.com/LinggaWahyu/TokoKasurPandaanJaya/blob/master/Tampilan%20/14.png)
 ![screenshoot](https://github.com/LinggaWahyu/TokoKasurPandaanJaya/blob/master/Tampilan%20/15.png)
-![screenshoot](https://github.com/LinggaWahyu/TokoKasurPandaanJaya/blob/master/Tampilan%20/16.png)
